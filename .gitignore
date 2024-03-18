@@ -1,0 +1,7 @@
+/node_modules/
+/ecom-frontend/node_modules/
+
+/ecom-frontend/.env.local
+/ecom-frontend/.env.development.local
+/ecom-frontend/.env.test.local
+/ecom-frontend/.env.production.local
