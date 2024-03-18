@@ -5,3 +5,4 @@ ecom-backend/node_modules/
 /ecom-frontend/.env.development.local
 /ecom-frontend/.env.test.local
 /ecom-frontend/.env.production.local
+/node_modules
